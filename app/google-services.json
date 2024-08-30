@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826547650842",
+    "project_id": "movie-app-72912",
+    "storage_bucket": "movie-app-72912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826547650842:android:bcb3d1c4d52a6b9e962ca3",
+        "android_client_info": {
+          "package_name": "com.synrgy.ch7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnnCjxzbeVd-VJ6DNc1Sc-HHgJn6tAGO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

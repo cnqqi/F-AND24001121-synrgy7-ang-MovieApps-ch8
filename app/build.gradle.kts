@@ -11,21 +11,6 @@ android {
     namespace = "com.synrgy.ch7"
     compileSdk = 34
 
-    flavorDimensions.add("version")
-    productFlavors {
-        create("basic") {
-            dimension = "version"
-            applicationIdSuffix = ".basic"
-            versionNameSuffix = "-basic"
-            buildConfigField("String", "FLAVOR_NAME", "\"Basic\"")
-        }
-        create("premium") {
-            dimension = "version"
-            applicationIdSuffix = ".premium"
-            versionNameSuffix = "-premium"
-            buildConfigField("String", "FLAVOR_NAME", "\"Premium\"")
-        }
-    }
 
     defaultConfig {
         applicationId = "com.synrgy.ch7"

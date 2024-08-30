@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ch7</string>
+    <string name="error_fetch_movies">error\n</string>
+</resources>
